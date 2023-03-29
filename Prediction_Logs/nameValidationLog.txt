@@ -22,3 +22,6 @@
 2023-03-29/14:23:36		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
 2023-03-29/14:23:36		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
 2023-03-29/14:23:36		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
+2023-03-29/14:49:58		Invalid File Name!! File moved to Bad Raw Folder :: forest_co8011998_120218.csv
+2023-03-29/14:49:58		Valid File name!! File moved to GoodRaw Folder :: forest_cover_28011990_120210.csv
+2023-03-29/14:49:58		Invalid File Name!! File moved to Bad Raw Folder :: forest_cover_28011997_1.csv
