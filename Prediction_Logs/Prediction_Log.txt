@@ -169,3 +169,47 @@
 2023-03-29/14:50:13		Entered the load_model method of the File_Operation class
 2023-03-29/14:50:13		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
 2023-03-29/14:50:13		End of Prediction
+2023-03-29/16:29:00		Start of Validation on files for prediction!!
+2023-03-29/16:29:00		Raw Data Validation Complete!!
+2023-03-29/16:29:00		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-03-29/16:29:04		Table creation Completed!!
+2023-03-29/16:29:04		Insertion of Data into Table started!!!!
+2023-03-29/16:29:14		Insertion in Table completed!!!
+2023-03-29/16:29:14		Deleting Good Data Folder!!!
+2023-03-29/16:29:14		Good_Data folder deleted!!!
+2023-03-29/16:29:14		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-03-29/16:29:14		Bad files moved to archive!! Bad folder Deleted!!
+2023-03-29/16:29:14		Validation Operation completed!!
+2023-03-29/16:29:14		Extracting csv file from table
+2023-03-29/16:29:14		Start of Prediction
+2023-03-29/16:29:14		Entered the get_data method of the Data_Getter class
+2023-03-29/16:29:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-03-29/16:29:14		Entered the load_model method of the File_Operation class
+2023-03-29/16:29:14		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-03-29/16:29:14		Entered the find_correct_model_file method of the File_Operation class
+2023-03-29/16:29:14		Exited the find_correct_model_file method of the Model_Finder class.
+2023-03-29/16:29:14		Entered the load_model method of the File_Operation class
+2023-03-29/16:29:14		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2023-03-29/16:29:14		End of Prediction
+2023-03-30/17:52:27		Start of Validation on files for prediction!!
+2023-03-30/17:52:27		Raw Data Validation Complete!!
+2023-03-30/17:52:27		Creating Prediction_Database and tables on the basis of given schema!!!
+2023-03-30/17:52:31		Table creation Completed!!
+2023-03-30/17:52:31		Insertion of Data into Table started!!!!
+2023-03-30/17:52:42		Insertion in Table completed!!!
+2023-03-30/17:52:42		Deleting Good Data Folder!!!
+2023-03-30/17:52:42		Good_Data folder deleted!!!
+2023-03-30/17:52:42		Moving bad files to Archive and deleting Bad_Data folder!!!
+2023-03-30/17:52:42		Bad files moved to archive!! Bad folder Deleted!!
+2023-03-30/17:52:42		Validation Operation completed!!
+2023-03-30/17:52:42		Extracting csv file from table
+2023-03-30/17:52:42		Start of Prediction
+2023-03-30/17:52:42		Entered the get_data method of the Data_Getter class
+2023-03-30/17:52:42		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-03-30/17:52:42		Entered the load_model method of the File_Operation class
+2023-03-30/17:52:42		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-03-30/17:52:42		Entered the find_correct_model_file method of the File_Operation class
+2023-03-30/17:52:42		Exited the find_correct_model_file method of the Model_Finder class.
+2023-03-30/17:52:42		Entered the load_model method of the File_Operation class
+2023-03-30/17:52:42		Model File XGBoost0 loaded. Exited the load_model method of the Model_Finder class
+2023-03-30/17:52:42		End of Prediction
